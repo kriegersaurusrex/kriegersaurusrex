@@ -1,4 +1,4 @@
-### Hey I'm Alex. I recently graduated from Lambda School for data science, and am working on improving some of my projects & expand my knowledge of algorithms to specialize in building prediction models. Am currently seeking a data analytics role in company, with the goal of better understanding your data and how to better leverage this in order to gain better insight & have a strong path forwards for improvement. 
+### Hey I'm Alex. I recently graduated from Lambda School for data science, and am working to revisit these portfolio projects & to expand my knowledge of algorithms for  better understanding the math that goes into building prediction models. Am currently seeking a data analytics role in company, with the goal of better understanding your data and how to better leverage this in order to gain better insight & have a strong path forwards for improvement. 
 
 Here's some of my recent projects:
 
