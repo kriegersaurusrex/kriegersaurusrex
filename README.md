@@ -9,7 +9,7 @@ Here's some of my recent projects:
 • Implement OCR with pytesseract libraries to extract legal information given to lawyers to make informed decisions regarding cases. 
 
 - 🔭 I’m currently working on coding challenges and algorithm puzzles. Planning to learn how to better implement search for games like Chess and Starcraft. 
-- 🌱 I’m currently learning how to invert a red-black tree in the most efficient way.
+- 🌱 I’m currently learning how AWS works to build pipelines used for data science/machine learning.
 - 💬 Ask me about what was recently on Hacker News! I love reading it every day and all the cool things happening with technology. 
 - 📫 How to reach me: Send me an email at kriegersaurusrex@gmail.com
 - ⚡ Fun fact: I bought a large whiteboard to practice problems on and it's absolutely fantastic. 
