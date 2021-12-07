@@ -1,15 +1,18 @@
-### Hey I'm Alex. I recently graduated from Lambda School for data science, and am working to revisit these portfolio projects & to expand my knowledge of algorithms for  better understanding the math that goes into building prediction models. Am currently seeking a data analytics role in company, with the goal of better understanding your data and how to better leverage this in order to gain better insight & have a strong path forwards for improvement. 
+### Hey I'm Alex. I graduated from the Bloom Institute of Technology for data science, and am currently working on my knowledge of data structures & algorithms to become a better programmer. I'm actively applying for a Python software development or data analyst role, preferably on an agile team that's building innovative tools. 
 
 Here's some of my recent projects:
 
-• Performed analysis of 2020 election data using pandas and matplotlib to determine polling accuracy on a state-by-state basis.
+• Built stock screening tools & a program to place paper trades based on patterns/combinations of indicators generated on multiple timeframes. (private repo)
 
-• Built predictive models aggregated from prior data using sklearn to determine success/failure probability for Kickstarter projects.
+• Performed analysis of 2020 election data using pandas and matplotlib to determine polling accuracy against the actual results on a state-by-state basis.
 
-• Implement OCR with pytesseract libraries to extract legal information given to lawyers to make informed decisions regarding cases. 
+• Built a prediction model of how to price an AirBNB rental based on listings in the area using neural networks to determine what price to set. 
 
-- 🔭 I’m currently working on coding challenges and algorithm puzzles. Planning to learn how to better implement search for games like Chess and Starcraft. 
-- 🌱 I’m currently learning how AWS works to build pipelines used for data science/machine learning.
-- 💬 Ask me about what was recently on Hacker News! I love reading it every day and all the cool things happening with technology. 
+• Created a site to place a fictional Kickstarter project into, and see if it'll be successfully funded based on NLP & similar projects. 
+
+• Implement an API that uses OCR libraries to extract legal information from court cases & determine success metrics based on document classification. 
+
+- 🔭 I’m currently working on coding challenges and algorithm puzzles. Mostly working on Leetcode problems & reading algo books at the moment. 
+- 💬 Ask me about what was recently on Hacker News! I've read it everyday for the past 6 years and think it's by far the best public forum on the internet. 
 - 📫 How to reach me: Send me an email at kriegersaurusrex@gmail.com
-- ⚡ Fun fact: I bought a large whiteboard to practice problems on and it's absolutely fantastic. 
+- ⚡ Fun fact: I bought a large whiteboard to practice problems on and it's absolutely fantastic for accountability & brainstorming solutions. 
