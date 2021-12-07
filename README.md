@@ -6,7 +6,7 @@ Here's some of my recent projects:
 
 • Performed analysis of 2020 election data using pandas and matplotlib to determine polling accuracy against the actual results on a state-by-state basis.
 
-• Built a prediction model of how to price an AirBNB rental based on listings in the area using neural networks to determine what price to set. 
+• Built a prediction model of what the optimal price an AirBNB should be rental based on nearby listings, using random forest classifiers. 
 
 • Created a site to place a fictional Kickstarter project into, and see if it'll be successfully funded based on NLP & similar projects. 
 
